@@ -1,4 +1,4 @@
-# Steckbrief <kürzel>
+# Steckbrief CLu
 
 ## Studiengang und Semester
 Wirtschaftsinformatik, 25. Semester
