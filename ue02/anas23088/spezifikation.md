@@ -2,12 +2,6 @@
 
 Mitgearbeitet haben (GitHub-Benutzernamen, auch bei Einzelarbeit): @Anas23088
 
-<!-- Je Abschnitt Ihrer Gliederung eine Überschrift (## für Abschnitte, ###
-     für Unterabschnitte) und darunter ein Beispiel aus dem Terminplaner,
-     d.h. so, wie Sie den Sachverhalt in diesem Abschnitt festhalten würden.
-     Die beiden Überschriften unten sind lediglich Platzhalter. -->
-
-## …
 ## Ziel und Zweck
 
 - Der Terminplaner soll die Planung und Vereinbarung von Terminen an der THM erleichtern.
