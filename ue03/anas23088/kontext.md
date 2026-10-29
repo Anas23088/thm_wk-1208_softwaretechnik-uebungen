@@ -1,31 +1,27 @@
 # Stakeholder und Systemkontext — Terminplaner für die THM
 
-<!-- Aufgabe 1 des Übungsblatts. Ersetzen Sie die Platzhalter … und fügen
-     Sie so viele Zeilen hinzu, wie Sie benötigen. Löschen Sie die
-     Kommentare, sobald Sie fertig sind. -->
-
 ## Stakeholder
-
-<!-- Mindestens sechs Stakeholder, je mit einem Satz dazu, worauf sie
-     Einfluss haben. -->
 
 | Stakeholder | Worauf hat er Einfluss? |
 |---|---|
-| … | … |
+| Studierende | Sie beeinflussen die Anforderungen an die Bedienbarkeit und Terminübersicht. |
+| Lehrende | Sie beeinflussen die Planung und Bekanntgabe von Lehrveranstaltungsterminen. |
+| Studiengangsverwaltung | Sie beeinflusst die Organisation und Koordination der Termine. |
+| Prüfungsamt | Es beeinflusst die Verwaltung und Bekanntgabe von Prüfungsterminen. |
+| IT-Administration | Sie beeinflusst den technischen Betrieb und die Sicherheit des Systems. |
+| Hochschulleitung | Sie beeinflusst organisatorische Vorgaben und Rahmenbedingungen. |
 
 ## Systemkontext
 
-<!-- Mindestens fünf Aspekte. Art: Person, System im Betrieb, Prozess,
-     Ereignis oder Dokument. -->
-
 | Aspekt | Art | Warum gehört er zum Kontext? |
 |---|---|---|
-| … | … | … |
+| Studierende | Person | Sie nutzen den Terminplaner, um ihre Termine zu organisieren. |
+| Moodle | System im Betrieb | Dort werden Informationen zu Lehrveranstaltungen bereitgestellt, die für die Terminplanung relevant sind. |
+| Prüfungsanmeldung | Prozess | Sie beeinflusst, welche Prüfungstermine für Studierende wichtig sind. |
+| Prüfungstermin | Ereignis | Prüfungstermine müssen bei der persönlichen Planung berücksichtigt werden. |
+| Stundenplan | Dokument | Er enthält Lehrveranstaltungstermine, die für den Terminplaner wichtig sind. |
 
 ## Irrelevante Umgebung
 
-<!-- Zwei Dinge, welche es an der THM gibt, die für den Terminplaner jedoch
-     keine Rolle spielen, je mit einer kurzen Begründung. -->
-
-- … — …
-- … — …
+- **THM-Mensa:** Die Mensa gehört zur Hochschule, hat aber keinen direkten Einfluss auf die Verwaltung von Lehrveranstaltungs- und Prüfungsterminen.
+- **Hochschulsport:** Die Sportangebote der THM sind für den Terminplaner nicht relevant, da dieser sich auf die Organisation von Studien- und Prüfungsterminen konzentriert.
