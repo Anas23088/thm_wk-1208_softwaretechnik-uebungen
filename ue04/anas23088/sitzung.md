@@ -1,4 +1,3 @@
-notepad ue04/anas23088/sitzung.md
 
 ---
 
