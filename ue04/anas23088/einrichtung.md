@@ -34,18 +34,5 @@
      Zwei bis drei Sätze. -->
 Der Agent hat mein Repository größtenteils richtig beschrieben und meine eigenen Dateien in den verschiedenen Branches gefunden. Er hat auch die Dateien anderer Teilnehmender von meinen Dateien unterschieden. Allerdings hat er einige noch nicht versionierte Dateien als meine Dateien erkannt, sodass die Antwort nicht vollständig korrekt war.
 
-## Wenn es nicht läuft
 
-<!-- Pflicht bei „teilweise“ und „nein“; bei „ja“ löschen Sie alles unter
-     der Überschrift. In den Kasten gehört der Befehl, der scheitert, samt
-     seiner Ausgabe, wörtlich aus dem Terminal kopiert. -->
 
-**Schritt, an dem es scheitert:** …
-
-**Befehl und Ausgabe:**
-
-```text
-…
-```
-
-**Bereits versucht:** …
